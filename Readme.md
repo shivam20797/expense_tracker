@@ -4,7 +4,8 @@ A simple command-line based Expense Tracker built using Python.
 This project helps users record their daily expenses, view all expense entries and calculate total spending.
 
 ## 🚀 Features
-➕ Add new expense (date, name, description, amount)
+
+➕ Add Expense (Date, Name, Description, Amount)
 📋 View all expenses
 💰 View total spending
 🔁 Menu-driven program
