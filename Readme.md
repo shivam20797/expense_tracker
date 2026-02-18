@@ -25,16 +25,16 @@ Conditional Statements
 ## 📷 Example Output
 ====== Menu ========
 
-1 Add Expense
-2 View All Expense
-3 View Total Spending
-4 Exit
+- 1 Add Expense
+- 2 View All Expense
+- 3 View Total Spending
+- 4 Exit
 
 --- 
 
 ## 📚 What I Learned
 
-Working with lists of dictionaries
-Loop control using while True
-User input handling
-Basic program structure design
+- Working with lists of dictionaries
+- Loop control using while True
+- User input handling
+- Basic program structure design
