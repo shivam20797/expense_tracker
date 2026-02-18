@@ -33,6 +33,7 @@ Conditional Statements
 --- 
 
 ## 📚 What I Learned
+
 Working with lists of dictionaries
 Loop control using while True
 User input handling
